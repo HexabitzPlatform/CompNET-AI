@@ -1,2 +1,2 @@
 # CompNET-AI
-CompNET is Hexabitz Electronic Components Classification Algorithms
+CompNET is a collection of AI algorithms developed by Hexabitz for automtic classification of electronic components assembled on PCBs. 
