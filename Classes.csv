@@ -1,26 +1,26 @@
 ID,"	Class","	Description"
-1,CAP CER 0402,Ceramic Capacitor SMD 0402
-2,CAP CER 0603,Ceramic Capacitor SMD 0603
-3,CAP CER 0805,Ceramic Capacitor SMD 0805
-4,CAP CER 1206,Ceramic Capacitor SMD 1206
-5,CAP CER 1210,Ceramic Capacitor SMD 1210
-6,CAP CER 1806,Ceramic Capacitor SMD 1806
-7,CAP CER 1812,Ceramic Capacitor SMD 1812
-8,CAP CER 2220,Ceramic Capacitor SMD 2220
-9,CAP TANT 0603,Tantalum Capacitor SMD 0603
-10,CAP TANT 0805,Tantalum Capacitor SMD 0805
-11,CAP TANT 1206,Tantalum Capacitor SMD 1206
-12,CAP TANT 1210,Tantalum Capacitor SMD 1210
-13,CAP TANT 1411,Tantalum Capacitor SMD 1411
-14,CAP TANT 2312,Tantalum Capacitor SMD 2312
-15,CAP TANT 2917,Tantalum Capacitor SMD 2917
-16,FB 0603,Ferrite Bead SMD 0603
-17,RES 0402,Resistor SMD 0402
-18,RES 0603,Resistor SMD 0603
-19,RES 0805,Resistor SMD 0805
-20,RES 1206,Resistor SMD 1206
-21,RES 1210,Resistor SMD 1210
-22,RES 2512,Resistor SMD 2512
+1,SMD ORANGE ,ALL SMD Ceramic Capacitors
+2,,
+3,,
+4,,
+5,,
+6,,
+7,,
+8,,
+9,CAP TANT Orange,All Orange SMD Tantalum Capacitor 
+10,,
+11,,
+12,,
+13,,
+14,,
+15,,
+16,,
+17,RES 0402,
+18,,
+19,,
+20,,
+21,,
+22,,
 23,SMD CRYSTAL,SMD CRYSTAL
 24,LED 0603,LED SMD 0603
 25,SOT-23-3,SOT23-3 Package
