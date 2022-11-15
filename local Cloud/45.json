@@ -1,0 +1,162 @@
+{
+  "id": 45,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "1\u00a0week, 4\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 2,
+    "data": {
+      "image": "/data/upload/2/fe08f8f4-3d-hall-10-click-large_default-12x.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-10-23T14:07:09.818234Z",
+    "updated_at": "2022-11-08T13:50:30.061408Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 2,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 179,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.421903052064636,
+        "y": 76.48114901256733,
+        "width": 5.206463195691203,
+        "height": 3.231597845601436,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "1gK6snLnLF",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.16517055655296,
+        "y": 85.8168761220826,
+        "width": 5.026929982046679,
+        "height": 3.052064631956911,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "Osss0MXCRG",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 55.29622980251347,
+        "y": 51.166965888689425,
+        "width": 2.5134649910233393,
+        "height": 1.7953321364452424,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "M7uphBXFJy",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 55.22701197676311,
+        "y": 54.14981269489596,
+        "width": 2.872531418312388,
+        "height": 1.615798922800718,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "7FOfzN1le7",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.07570685335217,
+        "y": 51.07287629913065,
+        "width": 9.4136243020496,
+        "height": 4.7068121510248,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SMD_SOP"
+        ]
+      },
+      "id": "WBuilt3ENw",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 48.28440818948795,
+        "y": 59.27713540189812,
+        "width": 3.1927803655883027,
+        "height": 1.4457873353607464,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "8JHp7WnkXA",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-03T20:54:37.070219Z",
+  "updated_at": "2022-11-08T13:50:29.981414Z",
+  "lead_time": 123.60900000000002,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

@@ -1,0 +1,242 @@
+{
+  "id": 114,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "6\u00a0days, 23\u00a0hours",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 449,
+    "data": {
+      "image": "/data/upload/2/769642f7-lte-iot-4-click-large_default-12x.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-05T12:51:33.251447Z",
+    "updated_at": "2022-11-08T13:15:11.231592Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 449,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 628,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.91892158940444,
+        "y": 46.6054955499607,
+        "width": 2.398783144694452,
+        "height": 1.2220216020141539,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "nDpDIDlNST",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.13238580210832,
+        "y": 46.560235490626845,
+        "width": 2.5798233820298755,
+        "height": 1.3125417206818657,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "5pxScKcDmw",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.643080007027706,
+        "y": 41.58162896390253,
+        "width": 3.168204153370021,
+        "height": 4.028145280713318,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SOT_23_6"
+        ]
+      },
+      "id": "zRNvNQHfDV",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 60.095683132084716,
+        "y": 55.748027535399885,
+        "width": 1.176761542680298,
+        "height": 2.5798233820298755,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "h_jG57e74T",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 48.78066829862037,
+        "y": 76.56765482897431,
+        "width": 1.765142314020442,
+        "height": 4.209185518048741,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "-MhHVcO7hd",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 51.26997156198253,
+        "y": 76.25083441363732,
+        "width": 2.444043204028299,
+        "height": 4.752306230055039,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "IDavYhIskw",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.87366153007058,
+        "y": 72.63002966692873,
+        "width": 1.9009224920220187,
+        "height": 3.9376251620455975,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "l5TLwH1qeQ",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 39.2760558385103,
+        "y": 73.48997079427203,
+        "width": 1.9009224920220102,
+        "height": 3.8471050433778764,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "7AaiZvr8gn",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 39.95495672851816,
+        "y": 82.67776283904507,
+        "width": 2.5345633226960196,
+        "height": 1.3125417206818746,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "XRaWqv6x3e",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.57148278057163,
+        "y": 86.02700722975052,
+        "width": 4.933346467390463,
+        "height": 2.353523085360596,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "48eaGDBFHl",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-08T13:15:05.968840Z",
+  "updated_at": "2022-11-08T13:15:11.159602Z",
+  "lead_time": 125.44,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

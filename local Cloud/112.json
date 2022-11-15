@@ -1,0 +1,322 @@
+{
+  "id": 112,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "1\u00a0week",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 447,
+    "data": {
+      "image": "/data/upload/2/bb52f080-lte-iot-2-click-large_default-12x.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-05T12:51:33.251447Z",
+    "updated_at": "2022-11-08T13:05:19.765235Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 447,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 626,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.4237970687725,
+        "y": 19.32785626956824,
+        "width": 2.3191104782637684,
+        "height": 1.122150231417951,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "DvhdxYPR4O",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 53.373529120678356,
+        "y": 19.32785626956824,
+        "width": 2.2068954551219733,
+        "height": 1.1969602468458174,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "Pkt5Q2hbYM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 53.0742890589669,
+        "y": 62.79247523315695,
+        "width": 4.226765871674294,
+        "height": 2.244300462835902,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "U6qrgj0d8J",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.98487218448148,
+        "y": 67.61772122825415,
+        "width": 2.094680431980178,
+        "height": 1.009935208276156,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "ZX9j-GXVpt",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.29931101196385,
+        "y": 69.18873155223928,
+        "width": 7.481001542786356,
+        "height": 10.548212175328757,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SMD_SOP"
+        ]
+      },
+      "id": "ILTJapaTcW",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 47.31391677945582,
+        "y": 75.09872277104046,
+        "width": 11.595552391318837,
+        "height": 9.351251928482974,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SOT_223"
+        ]
+      },
+      "id": "zxXerA5zH9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.80719003813755,
+        "y": 76.18346799474452,
+        "width": 1.5336053162712027,
+        "height": 3.740500771393176,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "nzgfz24RB2",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.545355393477095,
+        "y": 80.1858038201352,
+        "width": 2.094680431980187,
+        "height": 4.413790910243964,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "-zI2XeyvV5",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 47.61315793273287,
+        "y": 84.52478471495131,
+        "width": 2.2817054705498307,
+        "height": 1.0099352082761648,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "jw92zbI-Fs",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 51.465874136604896,
+        "y": 84.71180975352092,
+        "width": 2.356515485977697,
+        "height": 0.8603151774204321,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "w7e0qE0LtW",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 54.34605932124058,
+        "y": 73.7895475010529,
+        "width": 2.393920493691626,
+        "height": 1.1595552391318797,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "gnCcrxA0oe",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.75985023148453,
+        "y": 73.86435751648075,
+        "width": 2.3191104782637684,
+        "height": 1.0847452237040223,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "k3PO_k2Sk9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 38.261906004249916,
+        "y": 83.9263045915284,
+        "width": 4.4137909102439465,
+        "height": 2.3191104782637595,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "jvqvdHRiQ1",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 940,
+      "original_height": 940,
+      "image_rotation": 0,
+      "value": {
+        "x": 50.568153542133466,
+        "y": 86.35763009293397,
+        "width": 4.4137909102439465,
+        "height": 2.0572754242662583,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "gfjJs2Pz5g",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-08T13:04:53.121897Z",
+  "updated_at": "2022-11-08T13:05:19.693240Z",
+  "lead_time": 161.084,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

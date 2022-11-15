@@ -1,0 +1,162 @@
+{
+  "id": 37,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "2\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 178,
+    "data": {
+      "image": "/data/upload/2/f92b7a68-H0FR71_t.JPG"
+    },
+    "meta": {},
+    "created_at": "2022-10-23T14:07:09.852200Z",
+    "updated_at": "2022-11-08T14:10:24.887429Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 178,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 355,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 40.93357271095151,
+        "y": 56.96202531645567,
+        "width": 17.953321364452425,
+        "height": 9.403254972875226,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "TMOjLCpVt9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 52.96229802513463,
+        "y": 34.9005424954792,
+        "width": 6.283662477558357,
+        "height": 4.882459312839055,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "Mo0gzYAiBS",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 51.52603231597843,
+        "y": 45.75045207956601,
+        "width": 7.1813285457809695,
+        "height": 4.159132007233268,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "eg7cb9UmH8",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 44.88330341113104,
+        "y": 72.33273056057865,
+        "width": 4.66786355475763,
+        "height": 8.318264014466546,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "iGVAebCGZ3",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 52.78276481149011,
+        "y": 71.06690777576853,
+        "width": 7.181328545780961,
+        "height": 3.79746835443038,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "FRzpwQodQm",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 828,
+      "original_height": 822,
+      "image_rotation": 0,
+      "value": {
+        "x": 30.16157989228006,
+        "y": 28.209764918625673,
+        "width": 29.443447037701986,
+        "height": 17.359855334538867,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SMD_DPACK"
+        ]
+      },
+      "id": "n9cUWWJua3",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-01T08:33:22.374067Z",
+  "updated_at": "2022-11-08T14:10:24.807436Z",
+  "lead_time": 370.4820000000001,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

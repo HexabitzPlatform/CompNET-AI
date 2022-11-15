@@ -1,0 +1,162 @@
+{
+  "id": 80,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "1\u00a0week, 2\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 409,
+    "data": {
+      "image": "/data/upload/2/1483c4bd-H298a2870a9684b9da07b88eb46b153dbo.jpg_960x960.jpg"
+    },
+    "meta": {},
+    "created_at": "2022-11-05T12:51:33.235442Z",
+    "updated_at": "2022-11-08T17:34:12.236994Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 409,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 588,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.2657091561939,
+        "y": 53.50089766606824,
+        "width": 27.468581687612208,
+        "height": 13.105924596050272,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SMD_SOP"
+        ]
+      },
+      "id": "xmxEBTdNI8",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.44524236983842,
+        "y": 41.113105924596056,
+        "width": 26.929982046678635,
+        "height": 12.387791741472173,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SMD_SOP"
+        ]
+      },
+      "id": "RYwxOX2aGw",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 42.9084380610413,
+        "y": 24.95511669658887,
+        "width": 14.542190305206464,
+        "height": 12.208258527827644,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SOT_23_6"
+        ]
+      },
+      "id": "h7L22cPRbM",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.34829443447039,
+        "y": 22.621184919210055,
+        "width": 5.026929982046679,
+        "height": 10.412926391382406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "A9UxT9XcWf",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 37.34290843806104,
+        "y": 29.622980251346497,
+        "width": 5.206463195691203,
+        "height": 10.412926391382406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "iWi6QGCRkf",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 960,
+      "original_height": 960,
+      "image_rotation": 0,
+      "value": {
+        "x": 43.26750448833034,
+        "y": 18.31238779174147,
+        "width": 11.490125673249551,
+        "height": 5.385996409335727,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "IDC49srR4u",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-05T13:33:33.296810Z",
+  "updated_at": "2022-11-08T17:34:12.156999Z",
+  "lead_time": 90.164,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

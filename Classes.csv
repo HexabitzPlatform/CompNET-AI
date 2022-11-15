@@ -1,41 +1,12 @@
 ID,"	Class","	Description"
-1,SMD ORANGE ,ALL SMD Ceramic Capacitors
-2,,
-3,,
-4,,
-5,,
-6,,
-7,,
-8,,
-9,CAP TANT Orange,All Orange SMD Tantalum Capacitor 
-10,,
-11,,
-12,,
-13,,
-14,,
-15,,
-16,,
-17,RES 0402,
-18,,
-19,,
-20,,
-21,,
-22,,
-23,SMD CRYSTAL,SMD CRYSTAL
-24,LED 0603,LED SMD 0603
-25,SOT-23-3,SOT23-3 Package
-26,SOT-23-5,SOT-23-5 Package
-27,SOT-23-6,SOT-23-6 Package
-28,SOT-23-8,SOT-23-8 Package
-29,SOT143,SOT143 Package
-30,SOT490,SOT490 Package
-31,SOT89-3,SOT89-3 Package
-32,SOT223-4,SOT223-4 Package
-33,SOT223-5,SOT223-5 Package
-34,SOT223-8,SOT223-8 Package
-35,LED 4PLCC,LED SMD 4-PLCC
-36,QFN,QFN Package
-37,Micro-USB-B-RA,Micro USB B Connector Right Angle
-38,Mini-USB-B-RA,Mini USB B Connector Right Angle
-39,Sensor,On-board Sensors
-40,BGA,BGA Package
+1,CAP_CERAMIC_IND_SMD,ALL SMD Ceramic Capacitors and Inductors
+2,CAP_TANT_SMD_Orange,All Orange SMD Tantalum Capacitors
+3,CAP_TANT_SMD_BLACK,All Black SMD Tantalum Capacitors
+4,RES_SMD,All SMD Resistors
+5,DIODE_SMD ,ALL SMD Diodes
+6,SMD_DPACK ,ALL SMD components with DPACK package or similar
+7,SMD_SOP,ALL SMD components with SOP 20 package or similar
+8,SOT_23_3,ALL SMD components with SOT23-3 package or similar  
+9,SOT_23_6,ALL SMD components with SOT23-6 package or similar  
+10,SOT_223,ALL SMD Components with SOT223 package or similar  
+11,QFN,ALL SMD ICs with QFN package or similar  

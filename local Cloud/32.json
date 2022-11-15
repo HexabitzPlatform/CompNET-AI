@@ -1,0 +1,282 @@
+{
+  "id": 32,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "2\u00a0weeks",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 173,
+    "data": {
+      "image": "/data/upload/2/da8b9777-H0BR40_b.JPG"
+    },
+    "meta": {},
+    "created_at": "2022-10-23T14:07:09.847206Z",
+    "updated_at": "2022-11-08T18:27:35.767395Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 173,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 350,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 39.54703832752614,
+        "y": 39.497307001795335,
+        "width": 19.337979094076655,
+        "height": 19.389587073608617,
+        "rotation": 0,
+        "rectanglelabels": [
+          "QFN"
+        ]
+      },
+      "id": "qMAYzS142P",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 58.88501742160277,
+        "y": 59.245960502693016,
+        "width": 8.536585365853657,
+        "height": 3.9497307001795336,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "i2CVgKh-pP",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 26.306620209059233,
+        "y": 37.881508078994614,
+        "width": 4.181184668989547,
+        "height": 7.540394973070019,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "AOr9VaUhxP",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 30.313588850174213,
+        "y": 37.16337522441652,
+        "width": 8.362369337979095,
+        "height": 4.129263913824058,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "ymbYdM4z0-",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 40.41811846689896,
+        "y": 31.23877917414722,
+        "width": 4.181184668989547,
+        "height": 7.360861759425494,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "yN3yd0DcZh",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 59.23344947735192,
+        "y": 35.36804308797127,
+        "width": 4.181184668989547,
+        "height": 8.258527827648116,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "fQOprLeN9G",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 32.40418118466899,
+        "y": 52.42369838420109,
+        "width": 4.355400696864112,
+        "height": 7.899461400359067,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "pldSTzgR0Y",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 17.59581881533101,
+        "y": 46.31956912028727,
+        "width": 8.536585365853657,
+        "height": 4.4883303411130635,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "SM1qkAws5r",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 45.47038327526132,
+        "y": 30.879712746858154,
+        "width": 4.355400696864112,
+        "height": 7.899461400359063,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "_J5jmMvJgY",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 62.19512195121951,
+        "y": 47.755834829443444,
+        "width": 6.620209059233448,
+        "height": 10.412926391382406,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_TANT_SMD_BLACK"
+        ]
+      },
+      "id": "waNX2wk81X",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 64.11149825783971,
+        "y": 31.95691202872531,
+        "width": 5.2264808362369335,
+        "height": 9.515260323159785,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_TANT_SMD_BLACK"
+        ]
+      },
+      "id": "H8f-Zo1jqb",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 996,
+      "original_height": 966,
+      "image_rotation": 0,
+      "value": {
+        "x": 25.435540069686418,
+        "y": 52.24416517055656,
+        "width": 5.400696864111499,
+        "height": 9.874326750448834,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_TANT_SMD_Orange"
+        ]
+      },
+      "id": "yVwjOxcH5B",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-11-01T08:11:30.308342Z",
+  "updated_at": "2022-11-08T18:27:35.694052Z",
+  "lead_time": 246.69099999999997,
+  "parent_prediction": null,
+  "parent_annotation": null
+}

@@ -1,0 +1,182 @@
+{
+  "id": 26,
+  "created_username": " ai@hexabitz.com, 1",
+  "created_ago": "2\u00a0weeks, 2\u00a0days",
+  "completed_by": {
+    "id": 1,
+    "first_name": "",
+    "last_name": "",
+    "email": "ai@hexabitz.com"
+  },
+  "task": {
+    "id": 273,
+    "data": {
+      "image": "/data/upload/2/44081725-mini_usb_module.JPG"
+    },
+    "meta": {},
+    "created_at": "2022-10-23T14:07:09.864191Z",
+    "updated_at": "2022-11-08T16:45:10.909583Z",
+    "is_labeled": true,
+    "overlap": 1,
+    "inner_id": 273,
+    "total_annotations": 1,
+    "cancelled_annotations": 0,
+    "total_predictions": 0,
+    "comment_count": 0,
+    "unresolved_comment_count": 0,
+    "last_comment_updated_at": null,
+    "project": 2,
+    "updated_by": 1,
+    "file_upload": 450,
+    "comment_authors": []
+  },
+  "result": [
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 27.079646017699115,
+        "y": 39.85637342908438,
+        "width": 8.672566371681416,
+        "height": 11.66965888689408,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "Y2hmfbDIq9",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 36.10619469026549,
+        "y": 44.857109082348956,
+        "width": 3.36283185840708,
+        "height": 6.642728904847395,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "Crds6llBNX",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 66.54867256637168,
+        "y": 47.93536804308797,
+        "width": 6.72566371681416,
+        "height": 4.66786355475763,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_CERAMIC_IND_SMD"
+        ]
+      },
+      "id": "xUdBOm2d1K",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 52.03539823008848,
+        "y": 53.14183123877916,
+        "width": 3.7168141592920354,
+        "height": 7.360861759425494,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "Ii39bjNfNr",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 56.99115044247788,
+        "y": 20.825852782764812,
+        "width": 8.672566371681416,
+        "height": 5.026929982046679,
+        "rotation": 0,
+        "rectanglelabels": [
+          "RES_SMD"
+        ]
+      },
+      "id": "ZkohtJxdzn",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 34.51327433628318,
+        "y": 27.468581687612208,
+        "width": 23.1858407079646,
+        "height": 17.594254937163374,
+        "rotation": 0,
+        "rectanglelabels": [
+          "SOT_223"
+        ]
+      },
+      "id": "Nz3Age76IB",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    },
+    {
+      "original_width": 1272,
+      "original_height": 1254,
+      "image_rotation": 0,
+      "value": {
+        "x": 27.96460176991151,
+        "y": 24.416517055655287,
+        "width": 6.371681415929204,
+        "height": 9.515260323159785,
+        "rotation": 0,
+        "rectanglelabels": [
+          "CAP_TANT_SMD_Orange"
+        ]
+      },
+      "id": "KeEeU4hqec",
+      "from_name": "label",
+      "to_name": "image",
+      "type": "rectanglelabels",
+      "origin": "manual"
+    }
+  ],
+  "was_cancelled": false,
+  "ground_truth": false,
+  "created_at": "2022-10-30T09:37:35.459144Z",
+  "updated_at": "2022-11-08T16:45:10.821597Z",
+  "lead_time": 165.26,
+  "parent_prediction": null,
+  "parent_annotation": null
+}
